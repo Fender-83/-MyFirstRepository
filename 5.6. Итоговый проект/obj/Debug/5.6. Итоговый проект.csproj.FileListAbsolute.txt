@@ -1,0 +1,8 @@
+C:\Repository\-MyFirstRepository\5.6. Итоговый проект\bin\Debug\_5._6.Итоговый_проект.exe.config
+C:\Repository\-MyFirstRepository\5.6. Итоговый проект\bin\Debug\_5._6.Итоговый_проект.exe
+C:\Repository\-MyFirstRepository\5.6. Итоговый проект\bin\Debug\_5._6.Итоговый_проект.pdb
+C:\Repository\-MyFirstRepository\5.6. Итоговый проект\obj\Debug\5.6. Итоговый проект.csproj.AssemblyReference.cache
+C:\Repository\-MyFirstRepository\5.6. Итоговый проект\obj\Debug\5.6. Итоговый проект.csproj.SuggestedBindingRedirects.cache
+C:\Repository\-MyFirstRepository\5.6. Итоговый проект\obj\Debug\5.6. Итоговый проект.csproj.CoreCompileInputs.cache
+C:\Repository\-MyFirstRepository\5.6. Итоговый проект\obj\Debug\_5._6.Итоговый_проект.exe
+C:\Repository\-MyFirstRepository\5.6. Итоговый проект\obj\Debug\_5._6.Итоговый_проект.pdb
