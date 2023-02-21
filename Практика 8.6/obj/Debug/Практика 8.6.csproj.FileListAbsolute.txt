@@ -1,0 +1,8 @@
+C:\Repository\-MyFirstRepository\Практика 8.6\bin\Debug\Практика 8.6.exe.config
+C:\Repository\-MyFirstRepository\Практика 8.6\bin\Debug\Практика 8.6.exe
+C:\Repository\-MyFirstRepository\Практика 8.6\bin\Debug\Практика 8.6.pdb
+C:\Repository\-MyFirstRepository\Практика 8.6\obj\Debug\Практика 8.6.csproj.AssemblyReference.cache
+C:\Repository\-MyFirstRepository\Практика 8.6\obj\Debug\Практика 8.6.csproj.SuggestedBindingRedirects.cache
+C:\Repository\-MyFirstRepository\Практика 8.6\obj\Debug\Практика 8.6.csproj.CoreCompileInputs.cache
+C:\Repository\-MyFirstRepository\Практика 8.6\obj\Debug\Практика 8.6.exe
+C:\Repository\-MyFirstRepository\Практика 8.6\obj\Debug\Практика 8.6.pdb

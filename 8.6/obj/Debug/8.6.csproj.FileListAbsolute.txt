@@ -1,0 +1,8 @@
+C:\Repository\-MyFirstRepository\8.6\bin\Debug\8.6.exe.config
+C:\Repository\-MyFirstRepository\8.6\bin\Debug\8.6.exe
+C:\Repository\-MyFirstRepository\8.6\bin\Debug\8.6.pdb
+C:\Repository\-MyFirstRepository\8.6\obj\Debug\8.6.csproj.AssemblyReference.cache
+C:\Repository\-MyFirstRepository\8.6\obj\Debug\8.6.csproj.SuggestedBindingRedirects.cache
+C:\Repository\-MyFirstRepository\8.6\obj\Debug\8.6.csproj.CoreCompileInputs.cache
+C:\Repository\-MyFirstRepository\8.6\obj\Debug\8.6.exe
+C:\Repository\-MyFirstRepository\8.6\obj\Debug\8.6.pdb

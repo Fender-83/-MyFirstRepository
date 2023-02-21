@@ -94,9 +94,9 @@ namespace _5._6.Итоговый_проект
 
         public static void PrintUserData((string name, string lastName, int age, string[] pets, string[] colors) user)
         {
-            Console.WriteLine($"Name: {user.name}");
-            Console.WriteLine($"Lastname: {user.lastName}");
-            Console.WriteLine($"Age: {user.age}");
+            Console.WriteLine($"Имя: {user.name}");
+            Console.WriteLine($"Фамилия: {user.lastName}");
+            Console.WriteLine($"Возраст: {user.age}");
             if (user.pets.Length > 0)
             {
                 for (int i = 0; i < user.pets.Length; i++)
